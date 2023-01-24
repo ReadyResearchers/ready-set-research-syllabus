@@ -44,7 +44,7 @@ Must be taken on the letter-grade basis.
   Chapter 4, called `Experimental Results`.
 
 - **Week Seven: February 27 - March 3**: Revise the first draft of Chapter 4
-  and prepare a final version of Experimental Results`.
+  and prepare a final version of `Experimental Results`.
 
 ## Defense Schedule
 
