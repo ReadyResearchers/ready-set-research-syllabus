@@ -38,7 +38,7 @@ Must be taken on the letter-grade basis.
   and prepare final version of `Methods` content.
 
 - **Week Four: February 13 - February 17**: Use the computational artifact to
-  conduct experiments and then record and analyze all results.
+  conduct experiments and record and analyze results.
 
 - **Week Four: February 20 - February 24**: Write the first draft of content in
   Chapter 4, called `Experimental Results`.
