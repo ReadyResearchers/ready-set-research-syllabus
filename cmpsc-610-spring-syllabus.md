@@ -1,4 +1,4 @@
-# Course materials: Senior Thesis, Allegheny College, Summer 2022 (CMPSC 600)
+# CMPSC 610: Spring Semester of Two-Semester Senior Thesis Research
 
 ## Introduction
 
@@ -22,7 +22,6 @@ Must be taken on the letter-grade basis.
 
 * Prerequisite: `CMPSC 580`
 * Distribution Requirements: `None`
-
 
 ## Course Schedule
 
