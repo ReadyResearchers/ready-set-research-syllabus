@@ -25,14 +25,14 @@ Must be taken on the letter-grade basis.
 
 ## Course Schedule
 
-- **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 600,
+- **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 610,
   completed during the Fall semester.
 
 - **Week Two: January 23 - January 27**: Enhance the computational artifact that
   is at the center of your research.
 
 - **Week Three: January 30 -- February 3**: Write first draft of content in
-  Chapter 3, Methods.
+  Chapter 3 called Methods.
 
 - **Week Four: February 6 -- February 10**: Revise first draft of Chapter 3 and
   prepare final version of Methods content.
@@ -68,9 +68,11 @@ Despite the fact that the majority of our communication relies on our [Slack](ht
 By the end of this series of courses, you will develop skills to:
 
 * Develop and complete an independent research process
-* Present and communicate complex ideas in a variety of media via proposal and oral defenses
-* Describe and analyze a research process, its methods, and outcomes in the form of a formal thesis document
-* Effectively accomplish and offer peer and metacritical review
+* Present and communicate complex ideas in a variety of media via proposal and
+  oral defenses
+* Describe and analyze a research process, its methods, and outcomes in the form
+  of a formal thesis document
+* Effectively accomplish and offer peer and meta-critical review
 
 ### Grading policies
 
@@ -83,8 +85,7 @@ This course is graded according to the covenants of the [course contract](CODE_O
 |Thesis proposal defense         |Primary                                 |
 |Thesis chapters (drafts)        |Primary                                 |
 
-
-To pass `CMPSC 600`, submissions of and participation in all primary requirements is mandatory. As demonstrated by the table above, these are:
+To pass `CMPSC 610`, submissions of and participation in all primary requirements is mandatory. As demonstrated by the table above, these are:
 
 * Thesis proposal
 * Thesis proposal defense
@@ -94,19 +95,35 @@ To pass `CMPSC 600`, submissions of and participation in all primary requirement
 
 #### Class participation
 
-As written,  you are required to attend scheduled meetings, providing meaningful work toward course requirements. For additional meetings with First or Second Reader(s), [make an appointment via reader office hours](#Readers).
+As written,  you are required to attend scheduled meetings, providing meaningful
+work toward course requirements.
+For additional meetings with First or Second Reader(s), [make an appointment via
+reader office hours](#Readers).
 
 #### Course repositories
 
-You are responsible for accepting and maintaining GitHub repositories for each of the assigned course projects. Repositories include completion- and submission-specific instructions via `README` files. Many of these operations feature using GitHub's tagging mechanism to release PDFs of your proposal with versions that adhere to the course's semantic versioning standard.
+You are responsible for accepting and maintaining GitHub repositories for each
+of the assigned course projects.
+Repositories include completion- and submission-specific instructions via
+`README` files.
+Many of these operations feature using GitHub's tagging mechanism to release
+PDFs of your proposal with versions that adhere to the course's semantic
+versioning standard.
 
-**Course instructors will only grade and provide feedback on projects that are stored and properly released through GitHub.**
+**Course instructors will only grade and provide feedback on projects that are
+stored and properly released through GitHub.**
 
 ##### Status updates and peer review
 
-This assignment types asks you to detail the progress made on identifying a topic for your project and completing the preliminary research needed to demonstrate its feasibility. This work should account for feedback solicited from your First and Second Readers.
+This assignment types asks you to detail the progress made on identifying a
+topic for your project and completing the preliminary research needed to
+demonstrate its feasibility.
+This work should account for feedback solicited from your First and Second
+Readers.
 
-In addition, you will be requested (at three points throughout the semester) to complete peer reviews of draft documents. This feedback is crucial to you and your peers' progress in this course.
+In addition, you will be requested (at three points throughout the semester) to
+complete peer reviews of draft documents.
+This feedback is crucial to you and your peers' progress in this course.
 
 ##### Thesis proposal
 
@@ -114,9 +131,12 @@ The thesis proposal process is characterized by two fundamental parts.
 
 ###### Proposal document
 
-Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Departments thesis proposal style requirements and approved for a subsequent defense by your First Reader.
+Subject to multiple rounds of extensive revision, this technical document must
+be formatted according to the Departments thesis proposal style requirements and
+approved for a subsequent defense by your First Reader.
 
-Basic features of the proposal document are listed in the [course guidelines](CODE_OF_CONDUCT.md#proposal-document).
+Basic features of the proposal document are listed in the [course
+guidelines](CODE_OF_CONDUCT.md#proposal-document).
 
 ###### Proposal defenses
 
