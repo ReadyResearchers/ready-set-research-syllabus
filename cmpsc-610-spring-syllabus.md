@@ -57,7 +57,12 @@ Must be taken on the letter-grade basis.
 - **Week Eleven: March 27 - March 31**: Senior thesis defense for five students,
   with everyone in attendance.
     - **Alden 101**
-        -  Michael Ceccarelli
+        - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
+        - Caden Hinkley (First Reader: GMK, First Reader: TN)
+        - Kai'lani Woodard (First Reader: DL, First Reader: HB)
+    - **Alden 109**
+        - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
+        - Anthony Grant Cook (First Reader: OBC, First Reader: JJ)
 
 ### Required Materials
 
