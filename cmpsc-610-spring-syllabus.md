@@ -86,8 +86,8 @@ Must be taken on the letter-grade basis.
 - **Week Fourteen: April 17 - April 21**: Senior thesis defense for five students,
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: OBC
+        - Liam Black (First Reader: OBC, Second Reader: DL)
         - Abigail Waryanka (First Reader: OBC, First Reader: BD)
-        - Liam Black (First Reader: OBC, First Reader: DL)
         - Andre Hance (First Reader: OBC, Second Reader: JJ)
     - **Alden 109**, Faculty Moderator: GMK
         - Gary Chen (First Reader: JJ, Second Reader: GMK)
