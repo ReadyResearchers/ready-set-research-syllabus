@@ -76,7 +76,7 @@ Must be taken on the letter-grade basis.
 
 - **Week Thirteen: April 10 - April 14**: Senior thesis defense for four students,
   with everyone in attendance.
-    - **Alden 101**, Faculty Moderator: JJ
+    - **Alden 101**, Faculty Moderator: GMK
         - Kyrie Doniz (First Reader: JJ, First Reader: TB)
         - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
     - **Alden 109**, Faculty Moderator: DL
