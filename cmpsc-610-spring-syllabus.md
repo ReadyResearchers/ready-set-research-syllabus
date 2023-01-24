@@ -1,25 +1,6 @@
 # Course materials: Senior Thesis, Allegheny College, Summer 2022 (CMPSC 600)
 
-This repository hosts materials which describe the structure and operation of CMPSC 600. Check this space early and often for updates to the syllabus, schedule, and other course governance.
-
-
-### Readers
-
-
-## Syllabus
-
-### Course description
-
-Independent research in computer science.
-Students are invited to use their own departmentally approved laptop in this
-course; a limited number of laptops are available for use during class and lab
-sessions.
-Must be taken on the letter-grade basis.
-
-* Prerequisite: `CMPSC 580`
-* Distribution Requirements: `None`
-
-### Welcome
+## Introduction
 
 Your senior thesis process affords you the opportunity to pursue independent
 research in computer science.
@@ -31,17 +12,22 @@ Though the faculty cannot promise that this work will be frustration- or
 challenge-free, we invite you to pursue it with great enthusiasm, vigor, and to
 -- above all -- find joy in the process.
 
-### Course information
+## Course Description
 
-#### Meeting times and purposes
+Independent research in computer science.
+Students are invited to use their own departmentally approved laptop in this
+course; a limited number of laptops are available for use during class and lab
+sessions.
+Must be taken on the letter-grade basis.
 
-|Day of week |Time |Purpose |Location |
-|:-----------|:----|:-------|:--------|
-|Wednesday      |By appointment |General meeting |TBD|
+* Prerequisite: `CMPSC 580`
+* Distribution Requirements: `None`
 
-The above meetings serve as your opportunity to work on assignments and participate in the community created by this course. Your ability to give and receive peer feedback is fundamental to your success.
 
-Your readers expect you to attend these meetings. During these sessions, you will meet in groups led by your First Reader. The faculty expects your attendance and full participation, unless other arrangements (i.e. course conflicts) have been made.
+## Course Schedule
+
+
+
 
 #### Office hours
 
@@ -51,9 +37,9 @@ Your First Reader's schedule governs office hours availability and will vary. To
 
 #### Textbook(s)
 
-There are no required texbooks for this course. However, the faculty _highly recommend_ investing in the following texts for both academic and professional development:
+There are no required textbooks for this course. However, the faculty _highly recommend_ investing in the following texts for both academic and professional development:
 
-|Title |Author |ISBN | 
+|Title |Author |ISBN |
 |:-----|:------|:----|
 |_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
 |_BUGS in Writing: A Guide to Debugging your Prose_ |Lyn Dupre |978-0201379211 |
@@ -104,7 +90,7 @@ As written,  you are required to attend scheduled meetings, providing meaningful
 
 #### Course repositories
 
-You are responsible for accepting and maintaining GitHub repositories for each of the assigned course projects. Repositories include completion- and submission-specific instructions via `README` files. Many of these operations feature using GitHub's tagging mechanism to release PDFs of your proposal with versions that adhere to the course's semantic versioning standard. 
+You are responsible for accepting and maintaining GitHub repositories for each of the assigned course projects. Repositories include completion- and submission-specific instructions via `README` files. Many of these operations feature using GitHub's tagging mechanism to release PDFs of your proposal with versions that adhere to the course's semantic versioning standard.
 
 **Course instructors will only grade and provide feedback on projects that are stored and properly released through GitHub.**
 
@@ -120,7 +106,7 @@ The thesis proposal process is characterized by two fundamental parts.
 
 ###### Proposal document
 
-Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Departments thesis proposal style requirements and approved for a subsequent defense by your First Reader. 
+Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Departments thesis proposal style requirements and approved for a subsequent defense by your First Reader.
 
 Basic features of the proposal document are listed in the [course guidelines](CODE_OF_CONDUCT.md#proposal-document).
 
@@ -138,7 +124,7 @@ Should a project require IRB approval for use of human subjects research, studen
 
 ### Syllabus revision policy
 
-The faculty of the Department of Computer Science reserve the right to make changes to this syllabus document. Should a change occur, changes may be discussed with the members of the course community. Minor revisions to wording that do not impact course events or deliverables may be made without notice. 
+The faculty of the Department of Computer Science reserve the right to make changes to this syllabus document. Should a change occur, changes may be discussed with the members of the course community. Minor revisions to wording that do not impact course events or deliverables may be made without notice.
 
 Any change which impacts dates or significant changes in student responsibility will be communicated -- in writing -- at least one week in advance of due date of the deliverable affected.
 
@@ -168,7 +154,7 @@ Historically, students who are successful in department courses visit and discus
 
 If you find yourself in difficult circumstances which affect your ability to participate in or complete course work, let us know immediately -- **full stop**.
 
-Do not wait until the end of the semester. 
+Do not wait until the end of the semester.
 
 Part of our role as course instructors is to make sure that students receive the assistance they need. Do not hesitate to let us know if there is anything we can do with respect to your ability to handle your work. This is especially true of our current circumstances of the on-going global pandemic. Again, let us remind and encourage you -- _**it is part of our job**_ to help you access Allegheny College resources that will enable your safety and success.
 
