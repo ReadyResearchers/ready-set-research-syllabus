@@ -25,7 +25,11 @@ Must be taken on the letter-grade basis.
 
 ## Course Schedule
 
+- **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 600,
+  completed during the Fall semester.
 
+- **Week Two: January 23 - January 27**: Enhance the computational artifact that
+  is at the center of your research.
 
 
 #### Office hours
