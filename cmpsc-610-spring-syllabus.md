@@ -147,8 +147,8 @@ a failing grade in the course.**
 ### Deliverable Descriptions
 
 - **Research Notebook**
-        - Did the student create the Google Doc to house the record of first
-          reading meetings and additional research notes?
+  - [ ] Did the student create the Google Doc to house the record of first
+    reading meetings and additional research notes?
 
 ## Required Materials
 
