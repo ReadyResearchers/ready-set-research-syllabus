@@ -35,13 +35,16 @@ Must be taken on the letter-grade basis.
   Chapter 3, called `Methods`.
 
 - **Week Four: February 6 - February 10**: Revise the first draft of Chapter 3
-  and prepare final version of `Methods` content.
+  and prepare a final version of the `Methods` content.
 
-- **Week Four: February 13 - February 17**: Use the computational artifact to
+- **Week Five: February 13 - February 17**: Use the computational artifact to
   conduct experiments and record and analyze results.
 
-- **Week Four: February 20 - February 24**: Write the first draft of content in
+- **Week Six: February 20 - February 24**: Write the first draft of content in
   Chapter 4, called `Experimental Results`.
+
+- **Week Seven: February 27 - March 3**: Revise the first draft of Chapter 4
+  and prepare a final version of Experimental Results`.
 
 ## Defense Schedule
 
