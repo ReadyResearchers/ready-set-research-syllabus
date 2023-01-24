@@ -56,17 +56,55 @@ Must be taken on the letter-grade basis.
 
 - **Week Eleven: March 27 - March 31**: Senior thesis defense for five students,
   with everyone in attendance.
-    - **Alden 101**
+    - **Alden 101**, Faculty Moderator: GMK
         - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
         - Caden Hinkley (First Reader: GMK, First Reader: TN)
-        - Kai'lani Woodard (First Reader: DL, First Reader: HB)
-    - **Alden 109**
+    - **Alden 109**, Faculty Moderator: DL
         - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
-        - Anthony Grant Cook (First Reader: OBC, First Reader: JJ)
+        - Kai'lani Woodard (First Reader: DL, First Reader: HB)
+        - Anthony Grant Cook (First Reader: OBC, Second Reader: JJ)
 
-### Required Materials
+- **Week Twelve: April 3 - April 7**: Senior thesis defense for five students,
+  with everyone in attendance.
+    - **Alden 101**, Faculty Moderator: OBC
+        - Adam Shinomiya (First Reader: GMK, Second Reader: OBC)
+        - Peter Snipes (First Reader: DL, First Reader: OBC)
+        - Adriana Solis (First Reader: OBC, Second Reader: RO)
+    - **Alden 109**, Faculty Moderator: DL
+        - Kai'lani Woodard (First Reader: DL, First Reader: HB)
+        - Kobe Coleman (First Reader: JJ, First Reader: GMK)
 
-#### Textbook(s)
+- **Week Thirteen: April 10 - April 14**: Senior thesis defense for four students,
+  with everyone in attendance.
+    - **Alden 101**, Faculty Moderator: JJ
+        - Kyrie Doniz (First Reader: JJ, First Reader: TB)
+        - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
+    - **Alden 109**, Faculty Moderator: DL
+        - Favour Ojo (First Reader: DL, Second Reader: GMK)
+        - Lex Caldwell (First Reader: DL, Second Reader: OBC)
+
+- **Week Fourteen: April 17 - April 21**: Senior thesis defense for five students,
+  with everyone in attendance.
+    - **Alden 101**, Faculty Moderator: OBC
+        - Abigail Waryanka (First Reader: OBC, First Reader: BD)
+        - Liam Black (First Reader: OBC, First Reader: DL)
+        - Andre Hance (First Reader: OBC, Second Reader: JJ)
+    - **Alden 109**, Faculty Moderator: JJ
+        - Gary Chen (First Reader: JJ, Second Reader: GMK)
+        - Paige Downey (First Reader: JJ, Second Reader: DL)
+
+- **Week Fifteen: April 24 - April 28**: Revise all of the senior thesis
+  chapters according to feedback from your thesis defense.
+
+- **Week Sixteen: May 1**: Revise all of the senior thesis
+  chapters according to feedback from your thesis defense.
+
+- **Final Thesis Due: May 4**: Submit through a tagged release in GitHub the
+  final version of your undergraduate senior thesis.
+
+## Required Materials
+
+### Course Textbooks
 
 There are no required textbooks for this course.
 However, the faculty _highly recommend_ investing in the following texts for
