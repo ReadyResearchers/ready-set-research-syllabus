@@ -112,6 +112,44 @@ Must be taken on the letter-grade basis.
 - **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15**: Faculty
   submit to the registrar the final grades for the CMPSC 610 course.
 
+## Assessment Strategy
+
+### Learning Outcomes
+
+By the end of this course, you will develop skills to:
+
+* Develop and complete an independent research process
+* Present and communicate complex ideas in a variety of media via proposal and
+  oral defenses
+* Describe and analyze a research process, its methods, and outcomes in the form
+  of a formal thesis document
+* Effectively accomplish and offer peer and meta-critical review
+
+### Assessment Policies
+
+For the purposes of evaluation, this course is separated into both "primary" and
+"secondary" assignments.
+
+|Deliverable                     |Primary/secondary requirement           |
+|:-------------------------------|:---------------------------------------|
+|Research Notebook               |Secondary                               |
+|Class Participation             |Secondary                               |
+|Thesis Defense Presentation     |Primary                                 |
+|Five Senior Thesis Chapters     |Primary                                 |
+|Computational Artifact          |Primary                                 |
+
+To pass `CMPSC 610`, submissions of and participation in all primary
+requirements is mandatory.
+
+**Failure to successfully complete any of the above requirements will constitute
+a failing grade in the course.**
+
+### Deliverable Descriptions
+
+- **Research Notebook**
+        - Did the student create the Google Doc to house the record of first
+          reading meetings and additional research notes?
+
 ## Required Materials
 
 ### Course Textbooks
