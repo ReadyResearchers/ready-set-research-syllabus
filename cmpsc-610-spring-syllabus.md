@@ -149,6 +149,14 @@ a failing grade in the course.**
 - **Research Notebook**
   - [ ] Did the student create the Google Doc to house the record of first
     reading meetings and additional research notes?
+  - [ ] Does the research notebook contain evidence of numerous research notes?
+  - [ ] Does the research notebook contain evidence of date entries for meetings?
+  - [ ] Does the research notebook give evidence of regular progress throughout the
+    Spring semester?
+  - [ ] Do the contents of the research notebook have a clear connect to the
+    research project?
+  - [ ] Do the contents of the research notebook given evidence of progress on
+    the research?
 
 ## Required Materials
 
