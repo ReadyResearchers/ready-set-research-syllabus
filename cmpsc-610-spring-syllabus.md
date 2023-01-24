@@ -134,7 +134,8 @@ For the purposes of evaluation, this course is separated into both "primary" and
 |:-------------------------------|:---------------------------------------|
 |Research Notebook               |Secondary                               |
 |Class Participation             |Secondary                               |
-|Thesis Defense Presentation     |Primary                                 |
+|Process Commitment              |Secondary                               |
+|Thesis Presentation             |Primary                                 |
 |Five Senior Thesis Chapters     |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
@@ -150,7 +151,7 @@ a failing grade in the course.**
   - [ ] Did the student create the Google Doc to record the first reading
     meetings and additional research notes?
   - [ ] Does the research notebook contain evidence of numerous research notes?
-  - [ ] Does the research notebook contain evidence of date entries for
+  - [ ] Does the research notebook contain evidence of dated entries for
     meetings?
   - [ ] Does the research notebook give evidence of regular progress throughout
     the Spring semester?
@@ -158,6 +159,33 @@ a failing grade in the course.**
     research project?
   - [ ] Do the contents of the research notebook given evidence of progress on
     the research?
+
+- **Thesis Presentation**
+  - [ ] Did the student submit the final version of their slides one week in
+    advance of the date on which they presented?
+  - [ ] Did the student give the thesis presentation on the agreed date?
+  - [ ] Did the thesis presentation feature effective and well-designed slides?
+  - [ ] Does the research notebook give evidence of regular progress throughout
+    the Spring semester?
+  - [ ] Do the contents of the research notebook have a clear connect to the
+    research project?
+  - [ ] Do the contents of the research notebook given evidence of progress on
+    the research?
+
+- **Computational Artifact**
+  - [ ] Does the artifact's source code exist in a publicly available GitHub
+    repository?
+  - [ ] Does the artifact's GitHub repository contain documentation on how to
+    install and use it?
+  - [ ] Is it possible for a computer scientist who is not the creator of the
+    GitHub repository to install and use the computational artifact?
+  - [ ] Does the artifact's GitHub repository contain sufficient evidence of
+    best practices for software development (e.g., test suites, linters, and the
+    setup of continuous integration in GitHub actions)?
+  - [ ] Does the GitHub repository feature deliverables that have a clear
+    connection to the research project?
+  - [ ] Does the GitHub repository contain evidence of regular commits through
+    the spring semester?
 
 ## Required Materials
 
