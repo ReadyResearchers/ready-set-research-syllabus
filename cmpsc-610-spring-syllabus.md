@@ -89,7 +89,7 @@ Must be taken on the letter-grade basis.
         - Abigail Waryanka (First Reader: OBC, First Reader: BD)
         - Liam Black (First Reader: OBC, First Reader: DL)
         - Andre Hance (First Reader: OBC, Second Reader: JJ)
-    - **Alden 109**, Faculty Moderator: JJ
+    - **Alden 109**, Faculty Moderator: GMK
         - Gary Chen (First Reader: JJ, Second Reader: GMK)
         - Paige Downey (First Reader: JJ, Second Reader: DL)
 
