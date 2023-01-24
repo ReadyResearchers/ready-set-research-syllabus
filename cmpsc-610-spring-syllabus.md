@@ -106,11 +106,11 @@ Must be taken on the letter-grade basis.
   grades to the CMPSC 610 coordinator for all work that their students completed
   in CMPSC 610.
 
-- **Faculty Meeting to Finalized CMPSC 610 Grades: May 12**: Faculty meet to
+- **Faculty Meeting to Finalize the CMPSC 610 Grades: May 12**: Faculty meet to
   collaboratively discuss and finalize grades all grades in CMPSC 610.
 
-- **Faculty Report Final Grades to Registrar: May 15**: Faculty submit to the
-  registrar the final grades for the CMPSC 610 course.
+- **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15**: Faculty
+  submit to the registrar the final grades for the CMPSC 610 course.
 
 ## Required Materials
 
