@@ -102,6 +102,16 @@ Must be taken on the letter-grade basis.
 - **Final Thesis Due: May 4**: Submit through a tagged release in GitHub the
   final version of your undergraduate senior thesis.
 
+- **Faculty Report Final Grades to Course Coordinator: May 10**: Faculty submit
+  grades to the CMPSC 610 coordinator for all work that their students completed
+  in CMPSC 610.
+
+- **Faculty Meeting to Finalized CMPSC 610 Grades: May 12**: Faculty meet to
+  collaboratively discuss and finalize grades all grades in CMPSC 610.
+
+- **Faculty Report Final Grades to Registrar: May 15**: Faculty submit to the
+  registrar the final grades for the CMPSC 610 course.
+
 ## Required Materials
 
 ### Course Textbooks
