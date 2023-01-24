@@ -56,20 +56,16 @@ Must be taken on the letter-grade basis.
 
 - **Week Eleven: March 27 - March 31**: Senior thesis defense for five students,
   with everyone in attendance.
-
     - **Alden 101**
         -  Michael Ceccarelli
 
-
-#### Office hours
-
-Your First Reader's schedule governs office hours availability and will vary. To schedule office hours, use the schedule listed under your [First Reader's contact information](#Readers) listed above.
-
-### Required instructional materials
+### Required Materials
 
 #### Textbook(s)
 
-There are no required textbooks for this course. However, the faculty _highly recommend_ investing in the following texts for both academic and professional development:
+There are no required textbooks for this course.
+However, the faculty _highly recommend_ investing in the following texts for
+both academic and professional development:
 
 |Title |Author |ISBN |
 |:-----|:------|:----|
@@ -81,7 +77,11 @@ There are no required textbooks for this course. However, the faculty _highly re
 
 * [GitHub](https://github.com/Allegheny-Computer-Science-Thesis-2021)
 
-This course relies heavily on the above platforms. Your work will be assigned and evaluated on and crucial communication distributed through them. You are expected to register for and remain active on these platforms throughout the academic year.
+This course relies heavily on the above platforms.
+Your work will be assigned and evaluated on and crucial communication
+distributed through them.
+You are expected to register for and remain active on these platforms throughout
+the academic year.
 
 ##### Email policy
 
