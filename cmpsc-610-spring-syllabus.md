@@ -68,11 +68,11 @@ Must be taken on the letter-grade basis.
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: OBC
         - Adam Shinomiya (First Reader: GMK, Second Reader: OBC)
-        - Peter Snipes (First Reader: DL, First Reader: OBC)
+        - Peter Snipes (First Reader: DL, Second Reader: OBC)
         - Adriana Solis (First Reader: OBC, Second Reader: RO)
     - **Alden 109**, Faculty Moderator: DL
         - Kai'lani Woodard (First Reader: DL, First Reader: HB)
-        - Kobe Coleman (First Reader: JJ, First Reader: GMK)
+        - Kobe Coleman (First Reader: JJ, Second Reader: GMK)
 
 - **Week Thirteen: April 10 - April 14**: Senior thesis defense for four students,
   with everyone in attendance.
