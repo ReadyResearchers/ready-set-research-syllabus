@@ -20,7 +20,7 @@ course; a limited number of laptops are available for use during class and lab
 sessions.
 Must be taken on the letter-grade basis.
 
-* Prerequisite: `CMPSC 580`
+* Prerequisite: `CMPSC 580` and `CMPSC 600`
 * Distribution Requirements: `None`
 
 ## Course Schedule
@@ -31,11 +31,19 @@ Must be taken on the letter-grade basis.
 - **Week Two: January 23 - January 27**: Enhance the computational artifact that
   is at the center of your research.
 
-- **Week Three: January 30 -- February 3**: Write first draft of content in
-  Chapter 3 called Methods.
+- **Week Three: January 30 - February 3**: Write the first draft of content in
+  Chapter 3, called `Methods`.
 
-- **Week Four: February 6 -- February 10**: Revise first draft of Chapter 3 and
-  prepare final version of Methods content.
+- **Week Four: February 6 - February 10**: Revise the first draft of Chapter 3
+  and prepare final version of `Methods` content.
+
+- **Week Four: February 13 - February 17**: Use the computational artifact to
+  conduct experiments and then record and analyze all results.
+
+- **Week Four: February 20 - February 24**: Write the first draft of content in
+  Chapter 4, called `Experimental Results`.
+
+## Defense Schedule
 
 #### Office hours
 
