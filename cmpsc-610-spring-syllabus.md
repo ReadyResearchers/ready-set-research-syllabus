@@ -31,6 +31,11 @@ Must be taken on the letter-grade basis.
 - **Week Two: January 23 - January 27**: Enhance the computational artifact that
   is at the center of your research.
 
+- **Week Three: January 30 -- February 3**: Write first draft of content in
+  Chapter 3, Methods.
+
+- **Week Four: February 6 -- February 10**: Revise first draft of Chapter 3 and
+  prepare final version of Methods content.
 
 #### Office hours
 
