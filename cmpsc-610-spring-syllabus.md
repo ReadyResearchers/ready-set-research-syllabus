@@ -46,7 +46,20 @@ Must be taken on the letter-grade basis.
 - **Week Seven: February 27 - March 3**: Revise the first draft of Chapter 4
   and prepare a final version of `Experimental Results`.
 
-## Defense Schedule
+- **Week Eight: March 6 - March 10**: Spring break.
+
+- **Week Nine: March 13 - March 17**: Write first draft of Chapter 5, called
+  `Discussion and Future Work`.
+
+- **Week Ten: March 20 - March 24**: Finalize all chapters in the senior thesis
+  document.
+
+- **Week Eleven: March 27 - March 31**: Senior thesis defense for five students,
+  with everyone in attendance.
+
+    - **Alden 101**
+        -  Michael Ceccarelli
+
 
 #### Office hours
 
