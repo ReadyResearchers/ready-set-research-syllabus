@@ -177,23 +177,17 @@ requirements.
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
 - **Thesis Presentation**
-  - [ ] Did the student submit the final version of their slides one week in
-    advance of the date on which they presented?
-  - [ ] Did the student give the thesis presentation on the assigned date?
-  - [ ] Did the thesis presentation feature effective and well-designed slides?
-  - [ ] Did the thesis presentation have an accessible overview of the completed
-    project?
-  - [ ] Did the thesis presentation contain an effective tool demonstration?
-  - [ ] Did the thesis presentation contain insights from the empirical
-    evaluation?
-  - [ ] Did the thesis presentation suggest avenues for future research?
-  - [ ] Did the presenter effectively answer the audience questions?
-  - [ ] Did the student complete the thesis presentation within the ten-minute
-    time limit?
-  - [ ] Did the student complete the question and answer session within the
-    five-minute time limit?
-  - [ ] Did the student complete the tool demonstration within the one-minute
-    time limit?
+  - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
+  - [ ] The student gave the thesis presentation on the assigned date
+  - [ ] The thesis presentation featured effective and well-designed slides
+  - [ ] The thesis presentation has an accessible overview of the completed project
+  - [ ] The thesis presentation contained an effective tool demonstration
+  - [ ] The thesis presentation gave insights from the empirical evaluation
+  - [ ] The thesis presentation suggested avenues for future research
+  - [ ] The student effectively answered the questions from the audience
+  - [ ] The student completed the thesis presentation within the ten-minute time limit
+  - [ ] The student completed the question and answer session within the five-minute time limit
+  - [ ] The student completed the tool demonstration within the one-minute time limit
 
 - **General Thesis Requirements**
   - [ ] The abstract provides a concise and compelling summary of the research
