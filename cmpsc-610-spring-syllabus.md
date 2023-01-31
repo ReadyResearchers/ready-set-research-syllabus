@@ -361,12 +361,13 @@ one week in advance to describe your situation.
 Students who have any signs of illness should not attend any in-person course
 sessions.
 
-### Email policy
+### Email Policy
 
-Despite the fact that the majority of our communication relies on [Ready, Set,
-Research!
-Discord Server](https://discord.gg/KBMAHZRH9x) other platforms, the faculty may
-occasionally use email to communicate significant information.
+Despite the fact that the majority of our communication relies on the [Ready,
+Set, Research!
+Discord Server](https://discord.gg/KBMAHZRH9x) and other platforms such as the
+[ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers),
+the faculty may occasionally use email to communicate significant information.
 As with other the other platforms used by this course, it is your responsibility
 to be accountable for email communication.
 
@@ -374,14 +375,13 @@ to be accountable for email communication.
 
 The faculty of the Department of Computer Science reserve the right to make
 changes to this syllabus document.
-Should a change occur, changes may be discussed with the members of the course
+Should a change occur, they may be discussed with the members of the course
 community.
 Minor revisions to wording that do not impact course events or deliverables may
 be made without notice.
-
 Any change which impacts dates or significant changes in student responsibility
-will be communicated -- in writing -- at least one week in advance of due date
-of the deliverable affected.
+will be communicated -- in writing -- at least one week in advance of the due
+date of the deliverable affected.
 
 ### Honor Code
 
