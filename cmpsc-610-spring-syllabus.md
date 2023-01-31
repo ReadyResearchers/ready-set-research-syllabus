@@ -141,11 +141,8 @@ For the purposes of evaluation, this course is separated into both "primary" and
 |Five Senior Thesis Chapters     |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
-To pass `CMPSC 610`, submissions of and participation in all primary
+To pass `CMPSC 610`, submission of and participation in all of the primary
 requirements is mandatory.
-
-**Failure to successfully complete any of the above requirements will constitute
-a failing grade in the course.**
 
 ### Deliverable Descriptions
 
