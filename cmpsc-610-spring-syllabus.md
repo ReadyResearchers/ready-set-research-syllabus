@@ -440,7 +440,7 @@ In many situations, the following list of resources may help:
 * [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 * [Student Life](https://sites.allegheny.edu/studentlife/)
 
-### Special needs and disability
+### Special Needs
 
 Students with disabilities who need accommodations in this course are encouraged
 to contact Disability Services at `+1 814-334-2898`.
