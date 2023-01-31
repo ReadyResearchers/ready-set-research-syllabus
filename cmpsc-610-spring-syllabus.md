@@ -302,11 +302,12 @@ both academic and professional development:
 #### Platforms
 
 * [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
+* [ReadyResearchers Discord Server](https://discord.gg/KBMAHZRH9x)
 
-This course relies heavily on the above GitHub organization.
+This course relies heavily on the above GitHub organization and Discord server.
 Your work will be assigned and evaluated on and crucial communication
-distributed through this GitHub organization.
-You are expected to register for and remain active on this platform throughout
+distributed through these two platforms.
+You are expected to register for and remain active on these platforms throughout
 the academic year.
 
 ##### Email policy
