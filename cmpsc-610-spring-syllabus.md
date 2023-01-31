@@ -170,6 +170,7 @@ a failing grade in the course.**
 - **Process Commitment**
   - [ ] The student frequently completed activities on time according to the course schedule
   - [ ] The student asked and/or answered questions from their peers
+  - [ ] The student actively participated in the peer review process
   - [ ] The student demonstrated growth in their knowledge of their research topic
   - [ ] The student demonstrated growth in their ability to conduct research in computer science
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
@@ -302,7 +303,7 @@ both academic and professional development:
 #### Platforms
 
 * [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
-* [ReadyResearchers Discord Server](https://discord.gg/KBMAHZRH9x)
+* [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
 
 This course relies heavily on the above GitHub organization and Discord server.
 Your work will be assigned and evaluated on and crucial communication
@@ -312,44 +313,12 @@ the academic year.
 
 ##### Email policy
 
-Despite the fact that the majority of our communication relies on our [Slack](https://cs-senior-thesis-2021.slack.com) and other platforms, the faculty may occasionally use email to communicate significant information. As with other course platforms, it is your responsibility to be accountable for email communication.
-
-### Learning outcomes
-
-By the end of this series of courses, you will develop skills to:
-
-* Develop and complete an independent research process
-* Present and communicate complex ideas in a variety of media via proposal and
-  oral defenses
-* Describe and analyze a research process, its methods, and outcomes in the form
-  of a formal thesis document
-* Effectively accomplish and offer peer and meta-critical review
-
-### Grading policies
-
-This course is graded according to the covenants of the [course contract](CODE_OF_CONDUCT.md). Please refer to this document to review course evaluation specifics. However, this section summarizes basic responsibilities and deliverables. For the purposes of evaluation, this course is separated into both "primary" and "secondary" assignments.
-
-|Assignment                      |Primary/secondary requirement           |
-|:-------------------------------|:---------------------------------------|
-|Status updates                  |Secondary                               |
-|Thesis proposal                 |Primary                                 |
-|Thesis proposal defense         |Primary                                 |
-|Thesis chapters (drafts)        |Primary                                 |
-
-To pass `CMPSC 610`, submissions of and participation in all primary requirements is mandatory. As demonstrated by the table above, these are:
-
-* Thesis proposal
-* Thesis proposal defense
-* Thesis chapters
-
-**Failure to successfully complete any of the above requirements will constitute a failing grade in the course.**
-
-#### Class participation
-
-As written,  you are required to attend scheduled meetings, providing meaningful
-work toward course requirements.
-For additional meetings with First or Second Reader(s), [make an appointment via
-reader office hours](#Readers).
+Despite the fact that the majority of our communication relies on [Ready, Set,
+Research!
+Discord Server](https://discord.gg/KBMAHZRH9x) other platforms, the faculty may
+occasionally use email to communicate significant information.
+As with other the other platforms used by this course, it is your responsibility
+to be accountable for email communication.
 
 #### Course repositories
 
