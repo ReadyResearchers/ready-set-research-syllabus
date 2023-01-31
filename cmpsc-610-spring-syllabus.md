@@ -332,7 +332,7 @@ distributed through these two platforms.
 You are expected to register for and remain active on these platforms throughout
 the academic year.
 
-#### Course Repositories
+### Course Repositories
 
 You are responsible for accepting and maintaining GitHub repositories for each
 of the assigned course projects.
