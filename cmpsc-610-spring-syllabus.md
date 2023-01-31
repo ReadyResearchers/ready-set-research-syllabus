@@ -341,7 +341,7 @@ PDFs of your proposal with versions that adhere to the course's semantic
 versioning standard.
 
 **Course instructors will only grade and provide feedback on projects that are
-stored and properly released through GitHub.**
+stored in and properly released through GitHub.**
 
 ##### Thesis chapters
 
