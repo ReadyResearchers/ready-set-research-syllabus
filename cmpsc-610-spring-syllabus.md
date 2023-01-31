@@ -163,15 +163,16 @@ a failing grade in the course.**
     the research?
 
 - **Class Participation**
-  - [ ] Did the student regularly attend the weekly class sessions?
-  - [ ] Did the student actively participate in the in-person class discussions?
-  - [ ] Did the student actively participate in the online discussions in Discord?
+  - [ ] The student regularly attended the weekly class sessions
+  - [ ] The student actively participated in the weekly in-person class discussions
+  - [ ] The student actively participated in the online discussions in Discord
 
 - **Process Commitment**
-  - [ ] Did the student frequently complete activities on time according to the
-    course schedule?
-  - [ ] Did the student suggest ways in which to improve the research process?
-  - [ ] Did the student ask and/or answer questions from their peers?
+  - [ ] The student frequently completed activities on time according to the course schedule
+  - [ ] The student suggested ways in which to improve or gave feedback on the course's research process
+  - [ ] The student asked and/or answered questions from their peers
+  - [ ] The student demonstrated growth in their knowledge of their research topic
+  - [ ] The student demonstrated growth in their ability to conduct research in computer science
 
 - **Thesis Presentation**
   - [ ] Did the student submit the final version of their slides one week in
