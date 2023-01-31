@@ -112,7 +112,7 @@ Must be taken on the letter-grade basis.
   collaboratively discuss and finalize grades all grades in CMPSC 610.
 
 - **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15**: Faculty
-  submit to the registrar the final grades for the CMPSC 610 course.
+  submit the final grades for the CMPSC 610 course to the registrar.
 
 ## Assessment Strategy
 
