@@ -165,13 +165,21 @@ a failing grade in the course.**
 - **Thesis Presentation**
   - [ ] Did the student submit the final version of their slides one week in
     advance of the date on which they presented?
-  - [ ] Did the student give the thesis presentation on the agreed date?
-  - [ ] Did the student complete the thesis presentation within the time limit?
-  - [ ] Did the student complete the question and answer session within the time limit?
+  - [ ] Did the student give the thesis presentation on the assigned date?
   - [ ] Did the thesis presentation feature effective and well-designed slides?
+  - [ ] Did the thesis presentation have an accessible overview of the completed
+    project?
   - [ ] Did the thesis presentation contain an effective tool demonstration?
-  - [ ] Did the thesis presentation have an accessible overview of the completed project?
+  - [ ] Did the thesis presentation contain insights from the empirical
+    evaluation?
+  - [ ] Did the thesis presentation suggest avenues for future research?
   - [ ] Did the presenter effectively answer the audience questions?
+  - [ ] Did the student complete the thesis presentation within the ten-minute
+    time limit?
+  - [ ] Did the student complete the question and answer session within the
+    five-minute time limit?
+  - [ ] Did the student complete the tool demonstration within the one-minute
+    time limit?
 
 - **Computational Artifact**
   - [ ] Does the artifact's source code exist in a publicly available GitHub
