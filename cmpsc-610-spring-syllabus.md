@@ -269,19 +269,19 @@ a failing grade in the course.**
   - [ ] The conclusion outlines, with sufficient depth and detail, avenues for further and/or future work
 
 - **Computational Artifact**
-  - [ ] Does the artifact's source code exist in a publicly available GitHub
-    repository?
-  - [ ] Does the artifact's GitHub repository contain documentation on how to
-    install and use it?
-  - [ ] Is it possible for a computer scientist who is not the creator of the
-    GitHub repository to install and use the computational artifact?
-  - [ ] Does the artifact's GitHub repository contain sufficient evidence of
+  - [ ] The artifact's source code exist in a publicly available GitHub
+    repository
+  - [ ] The artifact's GitHub repository contain documentation on how to
+    install and use it
+  - [ ] It is possible for a computer scientist who is not the creator of the
+    GitHub repository to install and use the computational artifact
+  - [ ] The artifact's GitHub repository contain sufficient evidence of
     best practices for software development (e.g., test suites, linters, and the
-    setup of continuous integration in GitHub actions)?
-  - [ ] Does the GitHub repository feature deliverables that have a clear
-    connection to the research project?
-  - [ ] Does the GitHub repository contain evidence of regular commits through
-    the spring semester?
+    setup of continuous integration in GitHub actions)
+  - [ ] The GitHub repository feature deliverables that have a clear
+    connection to the research project
+  - [ ] The GitHub repository contain evidence of regular commits through
+    the spring semester
 
 ## Required Materials
 
