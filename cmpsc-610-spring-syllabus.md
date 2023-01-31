@@ -296,16 +296,17 @@ both academic and professional development:
 |:-----|:------|:----|
 |_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
 |_BUGS in Writing: A Guide to Debugging your Prose_ |Lyn Dupre |978-0201379211 |
-|_Writing for Computer Science (2nd ed.)_|Justin Zobel|978-1852338022 |
+|_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
+|_Published_|Thomas Deetjen|ASIN: B085MQN3Q8 |
 
 #### Platforms
 
-* [GitHub](https://github.com/Allegheny-Computer-Science-Thesis-2021)
+* [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
 
-This course relies heavily on the above platforms.
+This course relies heavily on the above GitHub organization.
 Your work will be assigned and evaluated on and crucial communication
-distributed through them.
-You are expected to register for and remain active on these platforms throughout
+distributed through this GitHub organization.
+You are expected to register for and remain active on this platform throughout
 the academic year.
 
 ##### Email policy
