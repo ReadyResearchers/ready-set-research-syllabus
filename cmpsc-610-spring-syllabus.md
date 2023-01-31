@@ -121,8 +121,9 @@ Must be taken on the letter-grade basis.
 By the end of this course, you will develop skills to:
 
 * Develop and complete an independent research process
-* Present and communicate complex ideas in a variety of media via proposal and
-  oral defenses
+* Present and communicate complex ideas in a variety of media through both
+  writing and oral presentations
+* Implement and experimentally evaluate a computational artifact
 * Describe and analyze a research process, its methods, and outcomes in the form
   of a formal thesis document
 * Effectively accomplish and offer peer and meta-critical review
