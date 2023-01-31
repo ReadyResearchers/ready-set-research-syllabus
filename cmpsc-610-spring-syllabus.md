@@ -1,5 +1,31 @@
 # CMPSC 610: Spring Semester of Two-Semester Senior Thesis Research
 
+## Outline
+
+* [Introduction](#introduction)
+* [Course Description](#course-description)
+* [Course Instructors](#course-instructors)
+* [Course Schedule](#course-schedule)
+* [Assessment Strategy](#assessment-strategy)
++ [Learning Outcomes](#learning-outcomes)
++ [Assessment Categories](#assessment-categories)
++ [Deliverable Descriptions](#deliverable-descriptions)
++ [Institutional Review Board (IRB) Proposals](#institutional-review-board-irb-proposals)
+* [Required Materials](#required-materials)
++ [Course Textbooks](#course-textbooks)
++ [Course Platforms](#course-platforms)
++ [Course Repositories](#course-repositories)
+* [Course Policies](#course-policies)
++ [Course Attendance](#course-attendance)
++ [Email Policy](#email-policy)
++ [Syllabus Revision](#syllabus-revision)
++ [Honor Code](#honor-code)
++ [Classroom Ethics](#classroom-ethics)
++ [Seeking Assistance](#seeking-assistance)
+    - [Course Assistance](#course-assistance)
+    - [Outside Assistance](#outside-assistance)
++ [Special Needs](#special-needs)
+
 ## Introduction
 
 Your senior thesis process affords you the opportunity to pursue independent
