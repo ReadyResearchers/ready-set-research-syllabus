@@ -24,6 +24,13 @@ Must be taken on the letter-grade basis.
 * Prerequisite: `CMPSC 580` and `CMPSC 600`
 * Distribution Requirements: `None`
 
+## Course Instructors
+
+- [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
+- [Janyl Jumadinova](https://janyljumadinova.com/)
+- [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/)
+- [Douglas Luman](https://www.douglasjluman.com/)
+
 ## Course Schedule
 
 - **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 610,
@@ -399,7 +406,7 @@ Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-boo
 
 ### Seeking Assistance
 
-#### Assistance with course concepts
+#### Course Assistance
 
 Students who struggle to understand knowledge and skills defined in this course
 are encouraged to seek assistance from their First Readers.
@@ -409,7 +416,7 @@ appointment](#Readers).
 Historically, students who are successful in department courses visit and
 discuss course processes and assignments early and often.
 
-#### Assistance outside of the course
+#### Outside Assistance
 
 If you find yourself in difficult circumstances which affect your ability to
 participate in or complete course work, let us know immediately -- **full
