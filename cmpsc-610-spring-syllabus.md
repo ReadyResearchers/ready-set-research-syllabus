@@ -295,6 +295,13 @@ _both_ `CMPSC 610` _and_ the `610` course connected to their other major.
   - [ ] The GitHub repository contains evidence of regular commits through
     the spring semester
 
+### Internal Review Board (IRB) Proposals
+
+Should a project require IRB approval for use of human subjects research,
+students are responsible for having a first draft of the IRB proposal
+application completed by `1 November 2021`.
+Students should submit this proposal draft to their First Reader by this date.
+
 ## Required Materials
 
 ### Course Textbooks
@@ -310,7 +317,7 @@ both academic and professional development:
 |_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
 |_Published_|Thomas Deetjen|B085MQN3Q8 |
 
-#### Platforms
+### Course Platforms
 
 * [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
 * [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
@@ -321,16 +328,7 @@ distributed through these two platforms.
 You are expected to register for and remain active on these platforms throughout
 the academic year.
 
-##### Email policy
-
-Despite the fact that the majority of our communication relies on [Ready, Set,
-Research!
-Discord Server](https://discord.gg/KBMAHZRH9x) other platforms, the faculty may
-occasionally use email to communicate significant information.
-As with other the other platforms used by this course, it is your responsibility
-to be accountable for email communication.
-
-#### Course repositories
+#### Course Repositories
 
 You are responsible for accepting and maintaining GitHub repositories for each
 of the assigned course projects.
@@ -343,23 +341,17 @@ versioning standard.
 **Course instructors will only grade and provide feedback on projects that are
 stored in and properly released through GitHub.**
 
-##### Thesis chapters
-
-A submission of any two draft chapters of your thesis document.
-Written in a professional and scientific style, these chapters must be formatted
-in the Department's thesis style.
-_Note that this style is different from the proposal style; guidelines for this
-style will be provided along with the thesis chapter assignment issued this
-semester_.
-
-### A note on Internal Review Board (IRB) proposals
-
-Should a project require IRB approval for use of human subjects research,
-students are responsible for having a first draft of the IRB proposal
-application completed by `1 November 2021`.
-Students should submit this proposal draft to their First Reader by this date.
 
 ## Course Policies
+
+### Email policy
+
+Despite the fact that the majority of our communication relies on [Ready, Set,
+Research!
+Discord Server](https://discord.gg/KBMAHZRH9x) other platforms, the faculty may
+occasionally use email to communicate significant information.
+As with other the other platforms used by this course, it is your responsibility
+to be accountable for email communication.
 
 ### Syllabus Revision
 
