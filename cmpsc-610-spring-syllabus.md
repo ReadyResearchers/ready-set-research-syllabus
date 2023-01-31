@@ -149,7 +149,7 @@ For the purposes of evaluation, this course is separated into both "primary" and
 |Class Participation             |Secondary                               |
 |Process Commitment              |Secondary                               |
 |Thesis Presentation             |Primary                                 |
-|Five Senior Thesis Chapters     |Primary                                 |
+|Thesis Chapters                 |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
 To pass `CMPSC 610`, submission of and participation in all of the primary
