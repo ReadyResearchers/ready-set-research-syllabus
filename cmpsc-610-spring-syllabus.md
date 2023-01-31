@@ -93,6 +93,7 @@ Must be taken on the letter-grade basis.
     - **Alden 109**, Faculty Moderator: GMK
         - Gary Chen (First Reader: JJ, Second Reader: GMK)
         - Paige Downey (First Reader: JJ, Second Reader: DL)
+        - William Connelly (First Reader: GMK, Second Reader: DL)
 
 - **Week Fifteen: April 24 - April 28**: Revise all of the senior thesis
   chapters according to feedback from your thesis defense.
