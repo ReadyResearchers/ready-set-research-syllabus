@@ -144,6 +144,9 @@ For the purposes of evaluation, this course is separated into both "primary" and
 
 To pass `CMPSC 610`, submission of and participation in all of the primary
 requirements is mandatory.
+In addition to an overall evaluation of each category, a student's work in
+`CMPSC 610` will be evaluated according to each of the following baseline
+requirements.
 
 ### Deliverable Descriptions
 
