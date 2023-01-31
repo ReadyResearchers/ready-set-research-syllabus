@@ -192,7 +192,7 @@ a failing grade in the course.**
   - [ ] Did the student complete the tool demonstration within the one-minute
     time limit?
 
-**General Thesis Requirements**:
+- **General Thesis Requirements**
   - [ ] The abstract provides a concise and compelling summary of the research
   - [ ] The thesis was submitted on time as a PDF in a tagged release on GitHub
   - [ ] The GitHub repository of the thesis contains evidence of many commits
@@ -224,20 +224,20 @@ a failing grade in the course.**
   - [ ] There are no typographical or grammatical errors in the thesis
   - [ ] There is no extraneous text in the thesis
 
-**Introduction Section Requirements**
+- **Introduction Section Requirements**
   - [ ] The introduction section clearly describes the completed work
   - [ ] The introduction section motivates the completed work from a
     professional perspective focused on science, technology, engineering,
     mathematics, and societal implications
   - [ ] The introduction section outlines the ethical implications of the thesis
 
-**Related Work Section Requirements**
+- **Related Work Section Requirements**
   - [ ] The related work section references and describes relevant literature
   - [ ] The related work section explains how relevant literature connects to the thesis
   - [ ] The related work section does not provide a "laundry list" of the related literature
   - [ ] The related work section situates the completed project in the broader scope
 
-**Method Section Requirements**
+- **Method Section Requirements**
   - [ ] The method section explains the process utilized in the completed study
   - [ ] The method section addresses as many of the following which are
     applicable (minimum `1`):
@@ -255,7 +255,7 @@ a failing grade in the course.**
     repository that contains the computational artifact(s) should furnish
     complete details about the input, output, behavior, and use of the project)
 
-**Experimental Results Section Requirements**
+- **Experimental Results Section Requirements**
   - [ ] The experimental results section includes a description of experiments
     such that a reader should be able to reproduce them
   - [ ] The evaluation subsection describes how the work is validated
@@ -263,7 +263,7 @@ a failing grade in the course.**
     some other relevant presentation of the results from the experimental study
   - [ ] The experimental results section details threats to validity
 
-**Discussion and Future Work Section Requirements**
+- **Discussion and Future Work Section Requirements**
   - [ ] The discussion and future work section discusses the impact of the completed research project
   - [ ] The discussion and future work section critically reflects on the completed research project
   - [ ] The conclusion outlines, with sufficient depth and detail, avenues for further and/or future work
