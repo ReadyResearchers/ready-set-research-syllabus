@@ -157,6 +157,11 @@ requirements is mandatory.
 In addition to an overall evaluation of each category, a student's work in
 `CMPSC 610` will be evaluated according to each of the following baseline
 requirements.
+Students who are enrolled in `DOUBL 610` are also required to write a
+course contract that describes the deliverables and the deadlines by which they
+will complete them for both `CMPSC 610` and the course for their additional major.
+Importantly, students in `DOUBL 610` must complete _all_ of the requirements for
+_both_ `CMPSC 610` _and_ the `610` course connected to their other major.
 
 ### Deliverable Descriptions
 
