@@ -408,11 +408,9 @@ Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-boo
 
 #### Course Assistance
 
-Students who struggle to understand knowledge and skills defined in this course
-are encouraged to seek assistance from their First Readers.
-To meet with readers, consult [available office hours and make an
-appointment](#Readers).
-
+Students who struggle to understand the knowledge and skills introduced in this course
+are encouraged to seek assistance from their first and second readers.
+To meet with your first and second readers, please visit their web site.
 Historically, students who are successful in department courses visit and
 discuss course processes and assignments early and often.
 
