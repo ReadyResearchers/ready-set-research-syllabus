@@ -31,6 +31,9 @@ Must be taken on the letter-grade basis.
 - [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.douglasjluman.com/)
 
+If you are enrolled in `DOUBL 610` you may have a first-reader who is not in the
+above list of course instructors.
+
 ## Course Schedule
 
 - **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 610,
