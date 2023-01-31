@@ -435,8 +435,9 @@ In many situations, the following list of resources may help:
 
 * [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
 * [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
-* [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+* [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 * [Student Life](https://sites.allegheny.edu/studentlife/)
+* [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Special Needs
 
