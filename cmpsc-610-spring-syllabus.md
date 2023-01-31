@@ -143,7 +143,7 @@ By the end of this course, you will develop skills to:
   of a formal thesis document
 * Effectively accomplish and offer peer and meta-critical review
 
-### Assessment Policies
+### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
 "secondary" requirements.
