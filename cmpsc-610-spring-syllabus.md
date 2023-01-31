@@ -303,6 +303,8 @@ approved IRB proposal before conducting any of the experimentation associated
 with their undergraduate research.
 Students must submit their IRB proposal to their First Reader who will review it
 and provide feedback on it before submitting it to the IRB.
+In accordance with Allegheny College policies, students may not submit their IRB
+proposal directly to the IRB.
 
 ## Required Materials
 
