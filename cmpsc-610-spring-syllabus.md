@@ -441,7 +441,7 @@ In many situations, the following list of resources may help:
 ### Special Needs
 
 Students with disabilities who need accommodations in this course are encouraged
-to contact Disability Services at `+1 814-334-2898`.
+to contact Disability Services at `+1 814-332-2898`.
 Disability Services is part of the Learning Commons, located in Pelletier
 Library.
 Should you need accommodations, contact this office as soon as possible to
