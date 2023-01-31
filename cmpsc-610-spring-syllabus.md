@@ -162,6 +162,17 @@ a failing grade in the course.**
   - [ ] Do the contents of the research notebook given evidence of progress on
     the research?
 
+- **Class Participation**
+  - [ ] Did the student regularly attend the weekly class sessions?
+  - [ ] Did the student actively participate in the in-person class discussions?
+  - [ ] Did the student actively participate in the online discussions in Discord?
+
+- **Process Commitment**
+  - [ ] Did the student frequently complete activities on time according to the
+    course schedule?
+  - [ ] Did the student suggest ways in which to improve the research process?
+  - [ ] Did the student ask and/or answer questions from their peers?
+
 - **Thesis Presentation**
   - [ ] Did the student submit the final version of their slides one week in
     advance of the date on which they presented?
