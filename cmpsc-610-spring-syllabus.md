@@ -28,11 +28,16 @@ Must be taken on the letter-grade basis.
 
 - [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
 - [Janyl Jumadinova](https://janyljumadinova.com/)
-- [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/)
+- [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.douglasjluman.com/)
 
-If you are enrolled in `DOUBL 610` you may have a first-reader who is not in the
-above list of course instructors.
+The instructor with the `**` symbol after their name is the CMPSC 610 course
+coordinator who is responsible for orchestrating all aspects of the `CMPSC 610`
+course.
+If you have any high-level questions about this course, please contact the
+course coordinator.
+Finally, if you are enrolled in `DOUBL 610` you may have a first-reader who is
+not in the above list of course instructors.
 
 ## Course Schedule
 
@@ -141,7 +146,7 @@ By the end of this course, you will develop skills to:
 ### Assessment Policies
 
 For the purposes of evaluation, this course is separated into both "primary" and
-"secondary" assignments.
+"secondary" requirements.
 
 |Deliverable                     |Primary/secondary requirement           |
 |:-------------------------------|:---------------------------------------|
@@ -345,8 +350,16 @@ versioning standard.
 **Course instructors will only grade and provide feedback on projects that are
 stored in and properly released through GitHub.**
 
-
 ## Course Policies
+
+### Course Attendance
+
+It is mandatory for all students to attend the course sessions.
+If, due to extenuating circumstances, you will not be able to attend a session,
+then, whenever possible, please communicate with the course coordinator at least
+one week in advance to describe your situation.
+Students who have any signs of illness should not attend any in-person course
+sessions.
 
 ### Email policy
 
