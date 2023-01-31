@@ -90,11 +90,12 @@ not in the above list of course instructors.
         - Kai'lani Woodard (First Reader: DL, First Reader: HB)
         - Kobe Coleman (First Reader: JJ, Second Reader: GMK)
 
-- **Week Thirteen: April 10 - April 14**: Senior thesis defense for four students,
+- **Week Thirteen: April 10 - April 14**: Senior thesis defense for five students,
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: JJ
         - Kyrie Doniz (First Reader: JJ, First Reader: TB)
         - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
+        - William Connelly (First Reader: GMK, Second Reader: DL)
     - **Alden 109**, Faculty Moderator: DL
         - Favour Ojo (First Reader: DL, Second Reader: GMK)
         - Lex Caldwell (First Reader: DL, Second Reader: OBC)
@@ -108,7 +109,6 @@ not in the above list of course instructors.
     - **Alden 109**, Faculty Moderator: GMK
         - Gary Chen (First Reader: JJ, Second Reader: GMK)
         - Paige Downey (First Reader: JJ, Second Reader: DL)
-        - William Connelly (First Reader: GMK, Second Reader: DL)
 
 - **Week Fifteen: April 24 - April 28**: Revise all of the senior thesis
   chapters according to feedback from your thesis defense.
