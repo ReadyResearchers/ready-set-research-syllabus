@@ -166,13 +166,12 @@ a failing grade in the course.**
   - [ ] Did the student submit the final version of their slides one week in
     advance of the date on which they presented?
   - [ ] Did the student give the thesis presentation on the agreed date?
+  - [ ] Did the student complete the thesis presentation within the time limit?
+  - [ ] Did the student complete the question and answer session within the time limit?
   - [ ] Did the thesis presentation feature effective and well-designed slides?
-  - [ ] Does the research notebook give evidence of regular progress throughout
-    the Spring semester?
-  - [ ] Do the contents of the research notebook have a clear connect to the
-    research project?
-  - [ ] Do the contents of the research notebook given evidence of progress on
-    the research?
+  - [ ] Did the thesis presentation contain an effective tool demonstration?
+  - [ ] Did the thesis presentation have an accessible overview of the completed project?
+  - [ ] Did the presenter effectively answer the audience questions?
 
 - **Computational Artifact**
   - [ ] Does the artifact's source code exist in a publicly available GitHub
