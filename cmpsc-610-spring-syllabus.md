@@ -101,7 +101,7 @@ Must be taken on the letter-grade basis.
 - **Week Sixteen: May 1**: Revise all of the senior thesis
   chapters according to feedback from your thesis defense.
 
-- **Final Thesis Due: May 4**: Submit through a tagged release in GitHub the
+- **Final Thesis Due: May 5**: Submit through a tagged release in GitHub the
   final version of your undergraduate senior thesis.
 
 - **Faculty Report Final Grades to Course Coordinator: May 10**: Faculty submit
