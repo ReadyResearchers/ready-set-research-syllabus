@@ -36,7 +36,7 @@ coordinator who is responsible for orchestrating all aspects of the `CMPSC 610`
 course.
 If you have any high-level questions about this course, please contact the
 course coordinator.
-Finally, if you are enrolled in `DOUBL 610` you may have a first-reader who is
+Finally, if you are enrolled in `DOUBL 610` you may have a first reader who is
 not in the above list of course instructors.
 
 ## Course Schedule
