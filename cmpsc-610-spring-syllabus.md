@@ -295,12 +295,14 @@ _both_ `CMPSC 610` _and_ the `610` course connected to their other major.
   - [ ] The GitHub repository contains evidence of regular commits through
     the spring semester
 
-### Internal Review Board (IRB) Proposals
+### Institutional Review Board (IRB) Proposals
 
-Should a project require IRB approval for use of human subjects research,
-students are responsible for having a first draft of the IRB proposal
-application completed by `1 November 2021`.
-Students should submit this proposal draft to their First Reader by this date.
+Should a project require Institutional Review Board (IRB) approval for use of
+human subjects research, students are responsible for writing and having an
+approved IRB proposal before conducting any of the experimentation associated
+with their undergraduate research.
+Students must submit their IRB proposal to their First Reader who will review it
+and provide feedback on it before submitting it to the IRB.
 
 ## Required Materials
 
