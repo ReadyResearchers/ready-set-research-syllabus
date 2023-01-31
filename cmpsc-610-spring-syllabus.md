@@ -303,12 +303,12 @@ There are no required textbooks for this course.
 However, the faculty _highly recommend_ investing in the following texts for
 both academic and professional development:
 
-|Title |Author |ISBN |
+|Title |Author |ISBN/ASIN |
 |:-----|:------|:----|
 |_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
 |_BUGS in Writing: A Guide to Debugging your Prose_ |Lyn Dupre |978-0201379211 |
 |_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
-|_Published_|Thomas Deetjen|ASIN: B085MQN3Q8 |
+|_Published_|Thomas Deetjen|B085MQN3Q8 |
 
 #### Platforms
 
