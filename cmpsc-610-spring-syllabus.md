@@ -169,10 +169,10 @@ a failing grade in the course.**
 
 - **Process Commitment**
   - [ ] The student frequently completed activities on time according to the course schedule
-  - [ ] The student suggested ways in which to improve or gave feedback on the course's research process
   - [ ] The student asked and/or answered questions from their peers
   - [ ] The student demonstrated growth in their knowledge of their research topic
   - [ ] The student demonstrated growth in their ability to conduct research in computer science
+  - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
 - **Thesis Presentation**
   - [ ] Did the student submit the final version of their slides one week in
