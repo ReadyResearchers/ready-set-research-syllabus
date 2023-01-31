@@ -4,8 +4,9 @@
 
 Your senior thesis process affords you the opportunity to pursue independent
 research in computer science.
-This course parallels the kinds of intense inquiry and research inherent to an
-academic life.
+This course parallels the kinds of intense inquiry and research inherent to both
+academic life and a career as a computer scientist, data scientist, or software
+engineer.
 To that end, you will work closely with your readers to explore rich,
 ever-complex, projects.
 Though the faculty cannot promise that this work will be frustration- or
