@@ -225,8 +225,8 @@ of their first readers and the `CMPSC 610` course coordinator.
 ### Deliverable Descriptions
 
 - **Research Notebook**
-  - [ ] Did the student create the Google Doc to record the first reading
-    meetings and additional research notes?
+  - [ ] The student created a Google Doc to record details about their meetings
+    with the first reader and additional research notes
   - [ ] Does the research notebook contain evidence of numerous research notes?
   - [ ] Does the research notebook contain evidence of dated entries for
     meetings?
