@@ -57,11 +57,10 @@ Must be taken on the letter-grade basis.
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.douglasjluman.com/)
 
-The instructor with the `**` symbol after their name is the CMPSC 610 course
-coordinator who is responsible for orchestrating all aspects of the `CMPSC 610`
-course.
-If you have any high-level questions about this course, please contact the
-course coordinator.
+The instructor with the `**` symbol after their name is the course coordinator
+who is responsible for orchestrating all aspects of the `CMPSC 610` course.
+If you have any high-level questions about this course, please contact both the
+course coordinator and your first reader(s).
 Finally, if you are enrolled in `DOUBL 610` you may have a first reader who is
 not in the above list of course instructors.
 
