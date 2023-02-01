@@ -161,8 +161,8 @@ not in the above list of course instructors.
 - **Faculty Meeting to Finalize the CMPSC 610 Grades: May 12**: Faculty meet to
   collaboratively discuss and finalize grades all grades in CMPSC 610.
 
-- **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15**: Faculty
-  submit the final grades for the CMPSC 610 course to the registrar.
+- **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15 at 9:00 AM**:
+  Faculty submit the final grades for the CMPSC 610 course to the registrar.
 
 ### Additional Details
 
