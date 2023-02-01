@@ -498,7 +498,7 @@ pandemic.
 Again, let us remind and encourage you -- _**it is part of our job**_ to help
 you access Allegheny College resources that will enable your safety and success.
 
-In many situations, the following list of resources may help:
+In many situations, the following list of resources may prove useful:
 
 * [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
 * [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
