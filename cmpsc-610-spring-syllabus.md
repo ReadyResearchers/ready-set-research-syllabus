@@ -352,13 +352,14 @@ of their first readers and the `CMPSC 610` course coordinator.
 ### Institutional Review Board (IRB) Proposals
 
 Should a project require Institutional Review Board (IRB) approval for use of
-human subjects research, students are responsible for writing and having an
-approved IRB proposal before conducting any of the experimentation associated
-with their undergraduate research.
+human subjects in the research project, the proposing student is responsible for
+writing and having an approved IRB proposal before conducting any of the
+experimentation associated with their undergraduate research.
 Students must submit their IRB proposal to their First Reader who will review it
 and provide feedback on it before submitting it to the IRB.
 In accordance with Allegheny College policies, students may not submit their IRB
-proposal directly to the IRB.
+proposal directly to the IRB and may not start working on any of their experiments
+before receiving IRB approval.
 
 ## Required Materials
 
