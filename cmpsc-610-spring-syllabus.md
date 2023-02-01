@@ -225,17 +225,12 @@ of their first readers and the `CMPSC 610` course coordinator.
 ### Deliverable Descriptions
 
 - **Research Notebook**
-  - [ ] The student created a Google Doc to record details about their meetings
-    with the first reader and additional research notes
-  - [ ] Does the research notebook contain evidence of numerous research notes?
-  - [ ] Does the research notebook contain evidence of dated entries for
-    meetings?
-  - [ ] Does the research notebook give evidence of regular progress throughout
-    the Spring semester?
-  - [ ] Do the contents of the research notebook have a clear connect to the
-    research project?
-  - [ ] Do the contents of the research notebook given evidence of progress on
-    the research?
+  - [ ] The student created a Google Doc to record details about their meetings with the first reader and additional
+    research notes
+  - [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
+  - [ ] The contents of the research notebook have regular dated entries throughout the Spring 2023 semester
+  - [ ] The contents of the research notebook have a clear connection to the research project
+  - [ ] The contents of the research notebook give evidence of regular progress on the research project
 
 - **Class Participation**
   - [ ] The student regularly attended the weekly class sessions
