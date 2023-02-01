@@ -198,9 +198,9 @@ By the end of this course, you will develop skills to:
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
-"secondary" requirements.
+"secondary" requirements, as explained in the following table.
 
-|Deliverable                     |Primary/secondary requirement           |
+|**Deliverable**                 |**Primary/secondary requirement**       |
 |:-------------------------------|:---------------------------------------|
 |Research Notebook               |Secondary                               |
 |Class Participation             |Secondary                               |
@@ -214,11 +214,13 @@ requirements is mandatory.
 In addition to an overall evaluation of each category, a student's work in
 `CMPSC 610` will be evaluated according to each of the following baseline
 requirements.
-Students who are enrolled in `DOUBL 610` are also required to write a
-course contract that describes the deliverables and the deadlines by which they
-will complete them for both `CMPSC 610` and the course for their additional major.
+Students who are enrolled in `DOUBL 610` are also required to write a course
+contract that describes the deliverables and the deadlines by which they will
+complete them for both `CMPSC 610` and the course for their additional major.
 Importantly, students in `DOUBL 610` must complete _all_ of the requirements for
 _both_ `CMPSC 610` _and_ the `610` course connected to their other major.
+Students who enroll in `DOUBL 610` should submit their course contract to both
+of their first readers and the `CMPSC 610` course coordinator.
 
 ### Deliverable Descriptions
 
