@@ -66,6 +66,16 @@ not in the above list of course instructors.
 
 ## Course Schedule
 
+### High-Level Overview
+
+- **Week One (January 16 - 20) through Week Ten (March 20 - 24)**: Implementation, experimentation, and writing
+- **Week Eleven (March 27 - 31) through Week Fourteen (April 17 - 21)**: Oral defense of senior theses
+- **Week Sixteen (May 1 - May 5)**: Final revisions to senior thesis document
+- **May 5 at 11:59 PM**: Submit final version of senior thesis as a tagged
+  release in the document's GitHub repository
+
+### Detailed Description
+
 - **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 610,
   completed during the Fall semester.
 
@@ -153,6 +163,8 @@ not in the above list of course instructors.
 
 - **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15**: Faculty
   submit the final grades for the CMPSC 610 course to the registrar.
+
+### Additional Details
 
 ## Assessment Strategy
 
