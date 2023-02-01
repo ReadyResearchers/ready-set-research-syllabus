@@ -343,7 +343,7 @@ of their first readers and the `CMPSC 610` course coordinator.
     GitHub repository to install and use the computational artifact
   - [ ] The artifact's GitHub repository contains sufficient evidence of
     best practices for software development (e.g., test suites, linters, and the
-    setup of continuous integration in GitHub actions)
+    setup of continuous integration in GitHub Actions)
   - [ ] The GitHub repository features deliverables that have a clear
     connection to the research project
   - [ ] The GitHub repository contains evidence of regular commits through
