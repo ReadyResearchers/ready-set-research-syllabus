@@ -166,6 +166,21 @@ not in the above list of course instructors.
 
 ### Additional Details
 
+- Students must upload a PDF of their senior thesis presentation slides to the `#general` channel in the `Ready, Set,
+  Research!` Discord server no later than one week before the end of class on the day on which they are scheduled to
+  give their presentation.
+- For instance, students who present on March 27, 2023 must upload their  slides to Discord no later than 2:30 PM on
+  March 20, 2023.
+- A senior thesis defense includes the following components with the stated time limits
+    - Senior thesis presentation: 10 minutes
+    - Question and answer session: 5 minutes
+    - Demonstration of computation artifact: 1 minute
+- Presenting students must strictly adhere to the stated time limits.
+- All students are required to attend and participate as audience members in all of the senior thesis defenses.
+- Since senior thesis defenses will take place in both Alden 101 and Alden 109, approximately half of the students
+  should attend defenses in one room and half should do the same in the other room.
+- Faculty members may need to move from Alden 101 to Alden 109 at least one during weeks eleven through fourteen.
+
 ## Assessment Strategy
 
 ### Learning Outcomes
