@@ -5,7 +5,6 @@
   * [Introduction](#introduction)
   * [Course Description](#course-description)
   * [Course Instructors](#course-instructors)
-  * [Course Schedule](#course-schedule)
   * [Assessment Strategy](#assessment-strategy)
     + [Learning Outcomes](#learning-outcomes)
     + [Assessment Categories](#assessment-categories)
@@ -56,10 +55,10 @@ Must be taken on the letter-grade basis.
 - [Douglas Luman](https://www.douglasjluman.com/)
 
 The instructor with the `**` symbol after their name is the course coordinator
-who is responsible for orchestrating all aspects of the `CMPSC 610` course.
+who is responsible for orchestrating all aspects of the `CMPSC 600` course.
 If you have any high-level questions about this course, please contact both the
 course coordinator and your first reader(s).
-Finally, if you are enrolled in `DOUBL 610` you may have a first reader who is
+Finally, if you are enrolled in `DOUBL 600` you may have a first reader who is
 not in the above list of course instructors.
 
 ## Assessment Strategy
@@ -86,22 +85,22 @@ For the purposes of evaluation, this course is separated into both "primary" and
 |Research Notebook               |Secondary                               |
 |Class Participation             |Secondary                               |
 |Process Commitment              |Secondary                               |
-|Thesis Presentation             |Primary                                 |
+|Proposal Pitch                  |Primary                                 |
 |Thesis Chapters                 |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
-To pass `CMPSC 610`, submission of and participation in all of the primary
+To pass `CMPSC 600`, submission of and participation in all of the primary
 requirements is mandatory.
 In addition to an overall evaluation of each category, a student's work in
-`CMPSC 610` will be evaluated according to each of the following baseline
+`CMPSC 600` will be evaluated according to each of the following baseline
 requirements.
-Students who are enrolled in `DOUBL 610` are also required to write a course
+Students who are enrolled in `DOUBL 600` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
-complete them for both `CMPSC 610` and the course for their additional major.
-Importantly, students in `DOUBL 610` must complete _all_ of the requirements for
-_both_ `CMPSC 610` _and_ the `610` course connected to their other major.
-Students who enroll in `DOUBL 610` should submit their course contract to both
-of their first readers and the `CMPSC 610` course coordinator.
+complete them for both `CMPSC 600` and the course for their additional major.
+Importantly, students in `DOUBL 600` must complete _all_ of the requirements for
+_both_ `CMPSC 600` _and_ the `600` course connected to their other major.
+Students who enroll in `DOUBL 600` should submit their course contract to both
+of their first readers and the `CMPSC 600` course coordinator.
 
 ### Deliverable Descriptions
 
