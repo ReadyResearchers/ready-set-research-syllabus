@@ -129,10 +129,9 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
   - [ ] The student gave the project pitch on the assigned date
   - [ ] The project pitch featured effective and well-designed slides
-  - [ ] The project pitch has an accessible overview of the completed project
+  - [ ] The project pitch has an accessible overview of the proposed project
   - [ ] The project pitch contained an effective tool demonstration
-  - [ ] The project pitch gave insights from the empirical evaluation
-  - [ ] The project pitch suggested avenues for future research
+  - [ ] The project pitch gave a clear project motivation
   - [ ] The student effectively answered the questions from the audience
   - [ ] The student completed the project pitch within the five-minute time limit
   - [ ] The student completed the question and answer session within the two-minute time limit
