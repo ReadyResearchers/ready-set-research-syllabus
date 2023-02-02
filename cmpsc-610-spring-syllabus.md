@@ -177,7 +177,7 @@ not in the above list of course instructors.
 - All students are required to attend and participate as audience members in all of the senior thesis defenses.
 - Since senior thesis defenses will take place in both Alden 101 and Alden 109, approximately half of the students
   should attend defenses in one room and half should do the same in the other room.
-- Faculty members may need to move from Alden 101 to Alden 109 at least one during weeks eleven through fourteen.
+- Faculty members may need to move from Alden 101 to Alden 109 at least once during weeks eleven through fourteen.
 
 ## Assessment Strategy
 
