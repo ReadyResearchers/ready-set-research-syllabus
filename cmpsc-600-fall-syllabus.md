@@ -257,6 +257,13 @@ before receiving IRB approval.
   approximately half of the students should attend defenses in one room and half
   should do the same in the other room.
 - Faculty members may need to move from Alden 101 to Alden 109.
+- Students must submit the first two chapters of their senior thesis document.
+  The thesis chapters are only required to adhere to those requirements that
+  might be reasonably completed during `CMPSC 600`. For instance, students are
+  not required to have a senior thesis document that meets the overall word
+  count requirement until they have completed `CMPSC 610`. Students who have
+  questions about the assessment requirements for `CMPSC 600` are encouraged to
+  contact their first reader and the `CMPSC 600` course coordinator.
 
 ## Required Materials
 
