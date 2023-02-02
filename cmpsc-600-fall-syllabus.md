@@ -47,7 +47,7 @@ course; a limited number of laptops are available for use during class and lab
 sessions.
 Must be taken on the letter-grade basis.
 
-* Prerequisite: `CMPSC 580` and `CMPSC 600`
+* Prerequisite: `CMPSC 580`
 * Distribution Requirements: `None`
 
 ## Course Instructors
