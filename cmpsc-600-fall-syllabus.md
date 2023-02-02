@@ -125,16 +125,16 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The student demonstrated growth in their ability to conduct research in computer science
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
-- **Thesis Presentation**
+- **Project Pitch**
   - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
-  - [ ] The student gave the thesis presentation on the assigned date
-  - [ ] The thesis presentation featured effective and well-designed slides
-  - [ ] The thesis presentation has an accessible overview of the completed project
-  - [ ] The thesis presentation contained an effective tool demonstration
-  - [ ] The thesis presentation gave insights from the empirical evaluation
-  - [ ] The thesis presentation suggested avenues for future research
+  - [ ] The student gave the project pitch on the assigned date
+  - [ ] The project pitch featured effective and well-designed slides
+  - [ ] The project pitch has an accessible overview of the completed project
+  - [ ] The project pitch contained an effective tool demonstration
+  - [ ] The project pitch gave insights from the empirical evaluation
+  - [ ] The project pitch suggested avenues for future research
   - [ ] The student effectively answered the questions from the audience
-  - [ ] The student completed the thesis presentation within the ten-minute time limit
+  - [ ] The student completed the project pitch within the ten-minute time limit
   - [ ] The student completed the question and answer session within the five-minute time limit
   - [ ] The student completed the tool demonstration within the one-minute time limit
 
