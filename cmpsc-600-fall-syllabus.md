@@ -108,7 +108,7 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The student created a Google Doc to record details about their meetings with the first reader and additional
     research notes
   - [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
-  - [ ] The contents of the research notebook have regular dated entries throughout the Spring 2023 semester
+  - [ ] The contents of the research notebook have regular dated entries throughout the Fall 2023 semester
   - [ ] The contents of the research notebook have a clear connection to the research project
   - [ ] The contents of the research notebook give evidence of regular progress on the research project
 
