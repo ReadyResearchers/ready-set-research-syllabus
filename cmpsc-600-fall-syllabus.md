@@ -240,6 +240,25 @@ In accordance with Allegheny College policies, students may not submit their IRB
 proposal directly to the IRB and may not start working on any of their experiments
 before receiving IRB approval.
 
+### Additional Details
+
+- Students must upload a PDF of their senior thesis presentation slides to the
+  `#general` channel in the `Ready, Set, Research!` Discord server no later than
+  one week before the end of class on the day on which they are scheduled to
+  give their presentation.
+- A project pitch includes the following components with the stated time limits
+    - Project pitch presentation:  5 minutes
+    - Question and answer session: 2 minutes
+    - Demonstration of computation artifact: 1 minute
+- Presenting students must strictly adhere to the stated time limits.
+- All students are required to attend and participate as audience members in all
+  of the senior thesis defenses.
+- Since senior thesis defenses will take place in both Alden 101 and Alden 109,
+  approximately half of the students should attend defenses in one room and half
+  should do the same in the other room.
+- Faculty members may need to move from Alden 101 to Alden 109 at least one
+  during weeks eleven through fourteen.
+
 ## Required Materials
 
 ### Course Textbooks
