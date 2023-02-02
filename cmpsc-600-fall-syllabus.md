@@ -134,8 +134,8 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The project pitch gave insights from the empirical evaluation
   - [ ] The project pitch suggested avenues for future research
   - [ ] The student effectively answered the questions from the audience
-  - [ ] The student completed the project pitch within the ten-minute time limit
-  - [ ] The student completed the question and answer session within the five-minute time limit
+  - [ ] The student completed the project pitch within the five-minute time limit
+  - [ ] The student completed the question and answer session within the two-minute time limit
   - [ ] The student completed the tool demonstration within the one-minute time limit
 
 - **General Thesis Requirements**
