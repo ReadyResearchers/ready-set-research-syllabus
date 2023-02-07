@@ -68,10 +68,13 @@ not in the above list of course instructors.
 
 - **Week One (January 16 - 20) through Week Ten (March 20 - 24)**:
   Implementation, experimentation, and writing
+
 - **Week Eleven (March 27 - 31) through Week Fourteen (April 17 - 21)**: Oral
   defense of senior theses
+
 - **Week Fifteen (April 24 - April 28) through Week Sixteen (May 1 - May 5)**:
   Final revisions to senior thesis document
+
 - **May 5 at 11:59 PM**: Submit final version of senior thesis as a tagged
   release in the document's GitHub repository
 
