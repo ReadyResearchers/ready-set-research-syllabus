@@ -199,13 +199,15 @@ not in the above list of course instructors.
 
 By the end of this course, you will develop skills to:
 
-* Develop and complete an independent research process
+* Develop and complete an independent research project
 * Present and communicate complex ideas in a variety of media through both
   writing and oral presentations
 * Implement and experimentally evaluate a computational artifact
-* Describe and analyze a research process, its methods, and outcomes in the form
-  of a formal thesis document
+* Describe and analyze the research process, its methods, and outcomes in the
+  form of a formal written thesis document
 * Effectively accomplish and offer peer and meta-critical review
+* Use cutting-edge software (e.g., GitHub version control, pandoc, and LaTeX) to
+  professionally format written research in computer science
 
 ### Assessment Categories
 
