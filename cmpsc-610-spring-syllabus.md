@@ -154,6 +154,9 @@ not in the above list of course instructors.
 - **Week Sixteen: May 1**: Revise all of the senior thesis
   chapters according to feedback from your thesis defense.
 
+- **Final Draft Thesis Due: March 24**: Submit through a tagged release in GitHub the
+  final draft version of your undergraduate senior thesis.
+
 - **Final Thesis Due: May 5**: Submit through a tagged release in GitHub the
   final version of your undergraduate senior thesis.
 
