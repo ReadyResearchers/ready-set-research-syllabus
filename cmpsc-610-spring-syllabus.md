@@ -178,7 +178,7 @@ not in the above list of course instructors.
   `#general` channel in the `Ready, Set, Research!` Discord server no later than
   one week before the end of class on the day on which they are scheduled to
   give their presentation.
-- For instance, students who present on March 27, 2023 must upload their  slides
+- For instance, students who present on March 27, 2023 must upload their slides
   to Discord no later than 2:30 PM on March 20, 2023.
 - A senior thesis defense includes the following components with the stated time
   limits
