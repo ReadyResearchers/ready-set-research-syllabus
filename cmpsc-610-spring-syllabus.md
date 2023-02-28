@@ -181,13 +181,16 @@ not in the above list of course instructors.
 - Students must upload a PDF of their senior thesis presentation slides to the
   `#general` channel in the `Ready, Set, Research!` Discord server no later than
   one week before the end of class on the day on which they are scheduled to
-  give their presentation. This requirement is relaxed for those students who
-  present during Week Eleven as they present during the first week of
-  presentations. As such, their slides are due on the Monday before their talk.
-- For instance, students who present on March 27, 2023 must upload their slides
-  to Discord no later than 2:30 PM on March 20, 2023.
-- A senior thesis defense includes the following components with the stated time
-  limits
+  give their presentation. For instance, students who present on March 27, 2023
+  must upload their slides to Discord no later than 2:30 PM on March 20, 2023.
+  This requirement is relaxed for those students who present during Week Eleven
+  as they present during the first week of senior thesis defenses. As such,
+  their slides are due on the Monday before their talk.
+- Students who are registered for `DOUBL 610` are responsible for ensuring that
+  their non-CMPSC first reader for their senior comprehensive project is able to
+  attend on assigned date for their presentation.
+- A senior thesis defense includes the following components with the stated
+  time limits
     - Senior thesis presentation: 10 minutes
     - Question and answer session: 5 minutes
     - Demonstration of computation artifact: 1 minute
