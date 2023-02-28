@@ -188,7 +188,7 @@ not in the above list of course instructors.
   their slides are due on the Monday before their talk.
 - Students who are registered for `DOUBL 610` are responsible for ensuring that
   the non-CMPSC first reader for their senior comprehensive project is able to
-  attend on assigned date for their presentation.
+  attend on the assigned date for their presentation.
 - A senior thesis defense includes the following components with the stated
   time limits
     - Senior thesis presentation: 10 minutes
