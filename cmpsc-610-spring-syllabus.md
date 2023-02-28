@@ -174,6 +174,10 @@ not in the above list of course instructors.
 
 ### Additional Details
 
+- Unless specified otherwise, students will defend their senior thesis on the
+  Tuesday during which their name is referenced in the course schedule. For
+  instance, students who are scheduled to present on Week Eleven should be
+  prepared to give their presentation on Tuesday, March 28, 2023.
 - Students must upload a PDF of their senior thesis presentation slides to the
   `#general` channel in the `Ready, Set, Research!` Discord server no later than
   one week before the end of class on the day on which they are scheduled to
