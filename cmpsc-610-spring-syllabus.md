@@ -112,8 +112,8 @@ not in the above list of course instructors.
 - **Week Eleven: March 27 - March 31**: Senior thesis defense for four students,
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: GMK
-        - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
         - Caden Hinkley (First Reader: GMK, First Reader: TN)
+        - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
     - **Alden 109**, Faculty Moderator: DL
         - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
         - Anthony Grant Cook (First Reader: OBC, Second Reader: JJ)
