@@ -69,7 +69,7 @@ not in the above list of course instructors.
 - **Week One (January 16 - 20) through Week Ten (March 20 - 24)**:
   Implementation, experimentation, and writing.
 
-- **March 24 at 11:59 PM**: Submit a final draft version as a tagged release in
+- **March 24 at 11:59 PM**: Submit the final draft version as a tagged release in
   the document's GitHub repository.
 
 - **Week Eleven (March 27 - 31) through Week Fourteen (April 17 - 21)**: Oral
@@ -78,7 +78,7 @@ not in the above list of course instructors.
 - **Week Fifteen (April 24 - April 28) through Week Sixteen (May 1 - May 5)**:
   Final revisions to senior thesis document.
 
-- **May 5 at 11:59 PM**: Submit final version of senior thesis as a tagged
+- **May 5 at 11:59 PM**: Submit the final version of senior thesis as a tagged
   release in the document's GitHub repository.
 
 ### Detailed Description
