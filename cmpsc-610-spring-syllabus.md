@@ -135,10 +135,10 @@ not in the above list of course instructors.
     - **Alden 101**, Faculty Moderator: JJ
         - Lex Caldwell (First Reader: DL, Second Reader: OBC)
         - Kyrie Doniz (First Reader: JJ, First Reader: TB)
-    - **Alden 109**, Faculty Moderator: DL
-        - Favour Ojo (First Reader: DL, Second Reader: GMK)
+    - **Alden 109**, Faculty Moderator: GMK
         - William Connelly (First Reader: GMK, Second Reader: DL)
         - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
+        - Favour Ojo (First Reader: DL, Second Reader: GMK)
 
 - **Week Fourteen: April 17 - April 21**: Senior thesis defense for five students,
   with everyone in attendance.
