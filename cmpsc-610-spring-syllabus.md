@@ -125,7 +125,7 @@ not in the above list of course instructors.
     - **Alden 101**, Faculty Moderator: OBC
         - Adam Shinomiya (First Reader: GMK, Second Reader: OBC)
         - Peter Snipes (First Reader: DL, Second Reader: OBC)
-        - Adriana Solis (First Reader: OBC, First Reader: RO)
+        - Adriana Solis (First Reader: OBC, First Reader: RO); rescheduled to 4:30 PM due to a schedule conflict reported by RO.
     - **Alden 109**, Faculty Moderator: DL
         - Kai'lani Woodard (First Reader: DL, First Reader: HB)
         - Kobe Coleman (First Reader: JJ, Second Reader: GMK)
