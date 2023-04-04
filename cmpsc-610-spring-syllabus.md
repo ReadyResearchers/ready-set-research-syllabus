@@ -140,7 +140,7 @@ not in the above list of course instructors.
         - William Connelly (First Reader: GMK, Second Reader: DL)
         - Favour Ojo (First Reader: DL, Second Reader: GMK)
 
-- **Week Fourteen: April 17 - April 21**: Senior thesis defense for five students,
+- **Week Fourteen: April 17 - April 21**: Senior thesis defense for six students,
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: OBC
         - Liam Black (First Reader: OBC, Second Reader: DL)
