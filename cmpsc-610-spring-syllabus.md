@@ -283,7 +283,8 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] The thesis presentation has an accessible overview of the completed project
   - [ ] The thesis presentation contained an effective tool demonstration
   - [ ] The thesis presentation gave insights from the empirical evaluation
-  - [ ] The thesis presentation suggested avenues for future research
+  - [ ] The thesis presentation made meaningful conclusions about the completed project
+  - [ ] The thesis presentation suggested suitable avenues for future research
   - [ ] The student effectively answered the questions from the audience
   - [ ] The student completed the thesis presentation within the ten-minute time limit
   - [ ] The student completed the question and answer session within the five-minute time limit
