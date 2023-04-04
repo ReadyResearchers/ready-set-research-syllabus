@@ -116,7 +116,6 @@ not in the above list of course instructors.
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: GMK
         - Caden Hinkley (First Reader: GMK, First Reader: TN)
-        - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
     - **Alden 109**, Faculty Moderator: DL
         - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
         - Anthony Grant Cook (First Reader: OBC, Second Reader: JJ)
@@ -134,8 +133,8 @@ not in the above list of course instructors.
 - **Week Thirteen: April 10 - April 14**: Senior thesis defense for five students,
   with everyone in attendance.
     - **Alden 101**, Faculty Moderator: JJ
-        - Kyrie Doniz (First Reader: JJ, First Reader: TB)
         - Lex Caldwell (First Reader: DL, Second Reader: OBC)
+        - Kyrie Doniz (First Reader: JJ, First Reader: TB)
     - **Alden 109**, Faculty Moderator: DL
         - Favour Ojo (First Reader: DL, Second Reader: GMK)
         - William Connelly (First Reader: GMK, Second Reader: DL)
@@ -148,6 +147,7 @@ not in the above list of course instructors.
         - Abigail Waryanka (First Reader: OBC, First Reader: BD)
         - Andre Hance (First Reader: OBC, Second Reader: JJ)
     - **Alden 109**, Faculty Moderator: GMK
+        - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
         - Gary Chen (First Reader: JJ, Second Reader: GMK)
         - Paige Downey (First Reader: JJ, Second Reader: DL)
 
