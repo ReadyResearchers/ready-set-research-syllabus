@@ -132,7 +132,7 @@ not in the above list of course instructors.
 
 - **Week Thirteen: April 10 - April 14**: Senior thesis defense for five students,
   with everyone in attendance.
-    - **Alden 101**, Faculty Moderator: JJ
+    - **Alden 101**, Faculty Moderator: OBC
         - Lex Caldwell (First Reader: DL, Second Reader: OBC)
         - Kyrie Doniz (First Reader: JJ, First Reader: TB)
     - **Alden 109**, Faculty Moderator: GMK
