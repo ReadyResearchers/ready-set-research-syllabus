@@ -321,6 +321,7 @@ of their first readers and the `CMPSC 610` course coordinator.
     implications of the completed research
   - [ ] There are no typographical or grammatical errors in the thesis
   - [ ] There is no extraneous text in the thesis
+  - [ ] There are no layout or formatting errors in the thesis
 
 - **Introduction Section Requirements**
   - [ ] The introduction section clearly describes the completed work
