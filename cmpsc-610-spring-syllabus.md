@@ -373,13 +373,15 @@ of their first readers and the `CMPSC 610` course coordinator.
     install and use it
   - [ ] It is possible for a computer scientist who is not the creator of the
     GitHub repository to install and use the computational artifact
-  - [ ] The artifact's GitHub repository contains sufficient evidence of
-    best practices for software development (e.g., test suites, linters, and the
+  - [ ] The artifact's GitHub repository contains sufficient evidence of best
+    practices for software development (e.g., test suites, linters, and the
     setup of continuous integration in GitHub Actions)
-  - [ ] The GitHub repository features deliverables that have a clear
-    connection to the research project
-  - [ ] The GitHub repository contains evidence of regular commits through
-    the spring semester
+  - [ ] The GitHub repository features deliverables that have a clear connection
+    to the research project
+  - [ ] The GitHub repository contains evidence of regular commits through the
+    spring semester
+  - [ ] The GitHub repository contains sufficient source code and technical
+    writing so as to make it clear that the project is completed
 
 ### Institutional Review Board (IRB) Proposals
 
